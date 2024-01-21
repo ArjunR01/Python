@@ -1,0 +1,6 @@
+e1=input('Enter employee name=')
+e2=input('Enter age=')
+e3=int(input("ENter salary"))
+tax=e3*(10/100)
+str="Name={} age={} salary={} tax={}".format(e1,e2,e3,tax)
+print(str)

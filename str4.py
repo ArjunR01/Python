@@ -1,0 +1,5 @@
+str=input("ENter =")
+a=str.rjust(10)
+print(str.rjust(15))
+print(a.ljust(50))
+print(str.center(50))

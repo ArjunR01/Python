@@ -1,0 +1,6 @@
+str=input("ENter string=")
+print(str)
+print(str.capitalize())
+print(str.title())
+print(str.swapcase())
+print(str.upper())
